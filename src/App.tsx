@@ -53,7 +53,7 @@ export default function App() {
             )}
           >
             <ListTodo className="w-6 h-6" />
-            <span className="text-[10px] font-medium tracking-wide">任务清单</span>
+            <span className="text-[10px] font-medium tracking-wide">项目清单</span>
           </button>
         </div>
 

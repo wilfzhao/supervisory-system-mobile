@@ -48,7 +48,7 @@ export default function TaskList({ onTaskSelect }: Props) {
       {/* Header & Search */}
       <div className="bg-white px-4 pt-12 pb-3 sticky top-0 z-30 shadow-sm border-b border-gray-100">
         <div className="flex justify-between items-center mb-4">
-          <h1 className="text-2xl font-bold tracking-tight text-gray-900">任务清单</h1>
+          <h1 className="text-2xl font-bold tracking-tight text-gray-900">项目清单</h1>
         </div>
 
         <div className="flex items-center space-x-2">
